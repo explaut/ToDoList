@@ -1,2 +1,2 @@
-# src
- hyperskill ToDoList project
+ToDoList
+hyperskill ToDoList project
